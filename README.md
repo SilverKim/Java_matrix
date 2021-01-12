@@ -1,2 +1,2 @@
 # matrix
-How to use matrix in Java
+How to use matrix in Java (add, sub, mux, div ...)
